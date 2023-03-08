@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-ifeq ($(BOARD_HAS_MTK_HARDWARE),true)
+ifeq ($(BOARD_HAS_MTK_FM),true)
 
 LOCAL_PATH:= $(call my-dir)
 
